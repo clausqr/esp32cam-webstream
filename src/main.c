@@ -2,6 +2,6 @@
 
 void app_main() 
 {
-    
+    int i = 0;
 }
 
