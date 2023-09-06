@@ -1,1 +1,7 @@
-void app_main() {}
+#include "esp_camera.h"
+
+void app_main() 
+{
+    
+}
+
