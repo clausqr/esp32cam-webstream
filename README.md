@@ -1,7 +1,3 @@
-Sure! Let's add those instructions and acknowledgements into the README.md.
-
----
-
 # ESP32CAM Streaming Project
 
 ![ESP32CAM](img/sample_image.png)
